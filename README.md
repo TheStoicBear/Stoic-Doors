@@ -42,3 +42,5 @@ The `config.lua` file in the `vehicle_door_interaction` folder allows you to cus
 1. [ox_lib](https://github.com/overextended/ox_lib)
 
 
+## Preview 
+https://www.youtube.com/watch?v=g2viMeHiE-4&ab_channel=Stoic
